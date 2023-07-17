@@ -1,0 +1,18 @@
+#titulo {
+   background-color: bisque;
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    border-radius: 20px;
+    box-shadow:10px  10px 10px ;
+    padding: 30px;
+}
+h1{
+    text-shadow: 5px 5px 5px  #ea1212;
+}
+ body{
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    background: white;
+}
